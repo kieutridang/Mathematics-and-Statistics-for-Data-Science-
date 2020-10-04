@@ -6,3 +6,6 @@
 2. Sử dụng ma trận giả đảo  để dự báo CO2 Emission theo 3 features Enginesize, Cylinders, FuelConsumption theo từng bước  sau:
   - Tạo mảng X, y từ df_train
   - Giải hệ phương trình X.w = y (Tính được w1, w2, w3)
+
+Gợi ý:
+  Thêm 1 cột vào df_test tên Prediction1 với w1, w2, w3 đã có.
