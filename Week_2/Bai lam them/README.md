@@ -13,3 +13,5 @@ Gợi ý:
 3. Sử dụng Gradient Descent với 2 features Enginesize, Cylinders, FuelConsumption tính  CO2 Emission
   - Viết  hàm Gradient Descent (alpha, X, y, numIterations) với X = [1, Enginesize, Cylinders, FuelConsumption] => Trả về theta [w0, w1, w2, w3]
   - Dự báo thêm 1 cột Prediction2 trong df_test theo công thức đã tính.
+
+Gởi email cho thầy: dtk@hcmus.edu.vn
